@@ -52,7 +52,7 @@ public class Karyawan {
         this.departemen = depar;
     }
 
-    public void tampilkanDataKaryawan() {
+    public void tampilkanDataKaryawan() { // Soal No 3
         // this.idKaryawan = idKarya;
         // this.nama = nama;
         // this.gajiPokok = gaji;
